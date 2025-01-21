@@ -8,6 +8,23 @@ Full time Friends & Family Guy.
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7C3&center=true&vCenter=true&width=435&lines=Exploring+the+Blockchain+Frontier;Securing+the+Digital+Realm;Innovating+for+the+Future)](https://git.io/typing-svg)
 
 ## 🧬 Core Skills
+
+
+
+
+
+<details open>
+<summary>Skills & Tools</summary>
+<h3 align="center">Languages & Frameworks</h3>
+<p align="center">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+</p>
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
@@ -63,3 +80,20 @@ If you find value in my projects or want to support my learning journey:
 ```
 ETH: 0x3A06322e9F1124F6B2de8F343D4FDce4D1009869
 ```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+617394
