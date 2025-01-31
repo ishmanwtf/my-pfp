@@ -36,23 +36,52 @@ Full time Friends & Family Guy.
 ## 🌠 Aspirations and Current Focus
 
 ```mermaid
-mindmap
-  root((Nectariferous))
-    Blockchain Mastery
-      Smart Contract Development
-      DeFi Innovations
-      Layer 2 Solutions
-      Cross-chain Interoperability
-    Ethical Hacking
-      Penetration Testing
-      Blockchain Security Audits
-      Zero-Knowledge Proofs
-      Quantum-resistant Cryptography
-    Full-Stack Development
-      Web3 Integration
-      Scalable Architecture
-      UI/UX Design
-      Decentralized Identity Solutions
+                                  ,;;;;;;,
+                                ,;;;'""`;;\
+                              ,;;;/  .'`',;\
+                            ,;;;;/   |    \|_
+                           /;;;;;    \    / .\
+                         ,;;;;;;|     '.  \/_/
+                        /;;;;;;;|       \
+             _,.---._  /;;;;;;;;|        ;   _.---.,_
+           .;;/      `.;;;;;;;;;|         ;'      \;;,
+         .;;;/         `;;;;;;;;;.._    .'         \;;;.
+        /;;;;|          _;-"`       `"-;_          |;;;;\
+       |;;;;;|.---.   .'  __.-"```"-.__  '.   .---.|;;;;;|
+       |;;;;;|     `\/  .'/__\     /__\'.  \/`     |;;;;;|
+       |;;;;;|       |_/ //  \\   //  \\ \_|       |;;;;;|
+       |;;;;;|       |/ |/    || ||    \| \|       |;;;;;|
+        \;;;;|    __ || _  .-.\| |/.-.  _ || __    |;;;;/
+         \jgs|   / _\|/ = /_o_\   /_o_\ = \|/_ \   |;;;/
+          \;;/   |`.-     `   `   `   `     -.`|   \;;/
+         _|;'    \ |    _     _   _     _    | /    ';|_
+        / .\      \\_  ( '--'(     )'--' )  _//      /. \
+        \/_/       \_/|  /_   |   |   _\  |\_/       \_\/
+                      | /|\\  \   /  //|\ |
+                      |  | \'._'-'_.'/ |  |
+                      |  ;  '-.```.-'  ;  |
+                      |   \    ```    /   |
+    __                ;    '.-"""""-.'    ;                __
+   /\ \_         __..--\     `-----'     /--..__         _/ /\
+   \_'/\`''---''`..;;;;.'.__,       ,__.',;;;;..`''---''`/\'_/
+        '-.__'';;;;;;;;;;;,,'._   _.',,;;;;;;;;;;;''__.-'
+             ``''--; ;;;;;;;;..`"`..;;;;;;;; ;--''``   _
+        .-.       /,;;;;;;;';;;;;;;;;';;;;;;;,\    _.-' `\
+      .'  /_     /,;;;;;;'/| ;;;;;;; |\';;;;;;,\  `\     '-'|
+     /      )   /,;;;;;',' | ;;;;;;; | ',';;;;;,\   \   .'-./
+     `'-..-'   /,;;;;','   | ;;;;;;; |   ',';;;;,\   `"`
+              | ;;;','     | ;;;;;;; |  ,  ', ;;;'|
+             _\__.-'  .-.  ; ;;;;;;; ;  |'-. '-.__/_
+            / .\     (   )  \';;;;;'/   |   |    /. \
+            \/_/   (`     `) \';;;'/    '-._|    \_\/
+                    '-/ \-'   '._.'         `
+                      """      /.`\
+                               \|_/
+
+------------------------------------------------
+Thank you for visiting https://asciiart.website/
+This ASCII pic can be found at
+https://asciiart.website/index.php?art=people/occupations/clowns
 ```
 
 ## 🛡️ Blockchain Security Focus
@@ -78,7 +107,7 @@ mindmap
 If you find value in my projects or want to support my learning journey:
 
 ```
-ETH: 0x3A06322e9F1124F6B2de8F343D4FDce4D1009869
+ETH: 0xWTF
 ```
 
 
